@@ -21,11 +21,11 @@ function Widgets() {
         screenName="Vaibhav_962"
         options={{ height: 300 }} />
 
-        {/* <div className="widgets_shareButton">
+        <div className="widgets_shareButton">
           <TwitterShareButton className="widgets_shareButton" 
           url={"https://www.instagram.com/vaibhav.962/"}
           options={{ text:"This is my instagram profile", via: "Vaibhav_962" }} />
-        </div> */}
+        </div>
       </div>
     </div>
   )
